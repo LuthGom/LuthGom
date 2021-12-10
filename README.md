@@ -8,7 +8,7 @@
 ### 🔭 Meus projetos atuais foram fetos com JS, HTML, CSS e NodeJs. Pretendendo sim aprender muitas outras linguagens e muito em breve
 ### 🌱 Atualmente, aprendendo React, VueJs e Aprimorando meus conhecimentos em NodeJs
 ### 💬 Pergunte-me
-### 📫 Onde me encontrar:  <a href="https://instagram.com/luthmendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/dev-luciano-mendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📫 Onde me encontrar:   <a href="https://www.linkedin.com/in/dev-luciano-mendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ### 😄 Pronouns: Ele/Dele - He/Him
 ### ⚡ Fun fact: Sou um ex quase professor de Química do signo de Touro (será que diz muito sobre mim?)
 
