@@ -5,8 +5,7 @@
 <!-- **LuthGom/LuthGom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-### 🔭 Meus projetos atuais foram feitos com JS, HTML, CSS e NodeJs.Pretendo me aprimorar nas que já conheço, conhecer novas linguagens
-### e technology's e fazer vários project's! 🌈😉
+### 🔭 Meus projetos atuais foram feitos com JS, HTML, CSS e NodeJs.Pretendo me aprimorar nas que já conheço, conhecer novas linguagens e technology's e fazer vários project's! 🌈😉
 ### 🌱 Atualmente, aprendendo React, VueJs e Aprimorando meus conhecimentos em NodeJs
 ### 💬 Pergunte-me
 ### 📫 Onde me encontrar:   <a href="https://www.linkedin.com/in/dev-luciano-mendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
